@@ -10,7 +10,7 @@ This repository contains simple producer and consumer projects that using Kafka,
   winget install -e -i Docker.DockerDesktop
 ``` 
 
-or download via [website]("https://www.docker.com/products/docker-desktop/")
+or download via [website](https://www.docker.com/products/docker-desktop/)
 
 ### Run Docker Compose File (compose file at root of Solution folder)
 
