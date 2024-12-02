@@ -1,4 +1,4 @@
-# Apache Kafka Demo with Dotnet8
+# Kafka Demo with Dotnet8
 
 This repository contains simple producer and consumer projects that using Kafka, written in .NET8
 
